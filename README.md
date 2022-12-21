@@ -2,7 +2,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/aa691371cfd111697a51cc4f112c732c/tumblr_pcg8urHJeX1tf04pfo1_640.gif" width="700px" height="380px" />
+  <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" width="700px" height="380px" />
 </div>
 
 <hr>
