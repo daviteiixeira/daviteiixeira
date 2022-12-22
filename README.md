@@ -1,6 +1,8 @@
 <hr>
 
-<h1 align="center">Hello 💫<h1>
+<h1 align="center">
+  Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+</h1>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" width="700px" height="380px" />
