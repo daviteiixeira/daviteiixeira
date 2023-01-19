@@ -1,21 +1,26 @@
 
+<!--The gif of cat-->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Meaw  
+
 <!--There is the image than is in side right-->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Error to load the image">
 
-<!-- -->
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Davi Teixeira](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-teixeira-219059257/)](https://www.linkedin.com/in/davi-teixeira-219059257/)
-[![Gmail Badge](https://img.shields.io/badge/-davideazevedo72@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davideazevedo72@gmail.com)](mailto:davideazevedo72@gmail.com)
-[![GitHub daviteiixeira]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/daviteiixeira)
-
 <!--The skills-->
-<h3 align="center"> :rocket: My Skills </h3>
-
 <div align="center">
+  <h3> :rocket: My Skills </h3>
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
 </div>
+
+<!--Where me find-->
+<div align="center"> 
+  <h3> :earth_americas: &nbsp;Where me find: </h3> 
+
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
